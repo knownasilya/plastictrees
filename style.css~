@@ -1,0 +1,16 @@
+/*
+Theme Name: Plastic Trees
+Theme URI: http://burstcreations.com
+Description: The default theme of Detectable Warning Products.
+Author: Ilya Radchenko
+Author URI: http://burstcreations.com
+Version: 1.0
+Tags: dark grey, three columns, jquery, rtl support
+
+License:
+License URI:
+*/
+
+body, html {
+   margin:0;
+   padding:0;}

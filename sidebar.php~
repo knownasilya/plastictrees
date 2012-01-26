@@ -1,0 +1,5 @@
+<ul class="sidebar">
+   <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar() ) : ?>
+      <a href="#">Home</a>
+   <?php endif; ?>
+</ul>
